@@ -1,7 +1,7 @@
 
 
 
-public class MinecraftApplet extends Applet
+public class MinecraftApplet
 {
     private Canvas canvas;
     private d minecraft;
