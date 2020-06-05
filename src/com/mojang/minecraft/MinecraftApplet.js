@@ -1,5 +1,4 @@
 
-//package com.mojang.minecraft;
 
 import java.awt.Component;
 import java.awt.LayoutManager;
