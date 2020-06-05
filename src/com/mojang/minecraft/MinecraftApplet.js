@@ -1,5 +1,7 @@
 
+'use strict';
 
+package com.mojang.minecraft;
 
 public class MinecraftApplet
 {
